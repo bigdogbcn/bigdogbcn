@@ -1,8 +1,23 @@
 - 👋 Hi, I’m @bigdogbcn
-- 👀 I’m interested in ... changing my life!
-- 🌱 I’m currently learning ... JavaScript.
+- 👀 I’m interested in ... helping people reach there business goals!
+- 🌱 I’m currently learning ... Full stack web development.
 - 💞️ I’m looking to collaborate on ... anything to improve my knowledge!
 - 📫 How to reach me ... message me! 
+
+
+My Skill set
+
+-Coding 
+HTML ⭐⭐⭐⭐
+CSS ⭐⭐⭐
+BOOTSTRAP ⭐
+JAVASCRIPT ⭐
+
+-Software
+Microsfot Suite ⭐⭐⭐⭐⭐
+Google Suite ⭐⭐⭐⭐⭐
+Photoshop ⭐⭐⭐
+
 
 <!---
 bigdogbcn/bigdogbcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
