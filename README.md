@@ -9,14 +9,14 @@ My Skill set
 
 -Coding 
 HTML ⭐⭐⭐⭐
-CSS ⭐⭐⭐
-BOOTSTRAP ⭐
+CSS ⭐⭐⭐⭐
+BOOTSTRAP ⭐⭐⭐
 JAVASCRIPT ⭐
 
 -Software
 Microsfot Suite ⭐⭐⭐⭐⭐
 Google Suite ⭐⭐⭐⭐⭐
-Photoshop ⭐⭐⭐
+Photoshop ⭐⭐⭐⭐
 
 
 <!---
