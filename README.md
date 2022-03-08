@@ -7,16 +7,16 @@
 
 My Skill set
 
--Coding 
-HTML ⭐⭐⭐⭐
-CSS ⭐⭐⭐⭐
-BOOTSTRAP ⭐⭐⭐
-JAVASCRIPT ⭐
+Coding 
+- HTML ⭐⭐⭐⭐
+- CSS ⭐⭐⭐⭐
+- BOOTSTRAP ⭐⭐⭐
+- JAVASCRIPT ⭐
 
--Software
-Microsfot Suite ⭐⭐⭐⭐⭐
-Google Suite ⭐⭐⭐⭐⭐
-Photoshop ⭐⭐⭐⭐
+Software
+- Microsfot Suite ⭐⭐⭐⭐⭐
+- Google Suite ⭐⭐⭐⭐⭐
+- Adobe suite ⭐⭐⭐⭐
 
 
 <!---
