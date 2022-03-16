@@ -13,6 +13,10 @@ Coding
 - BOOTSTRAP ⭐⭐⭐⭐
 - JAVASCRIPT ⭐⭐⭐⭐
 - DOM Document Object Model ⭐
+- JQuery ⭐
+- Node.js
+- 
+
 
 
 Software
