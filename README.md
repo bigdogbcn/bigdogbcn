@@ -10,8 +10,10 @@ My Skill set
 Coding 
 - HTML ⭐⭐⭐⭐
 - CSS ⭐⭐⭐⭐
-- BOOTSTRAP ⭐⭐⭐
-- JAVASCRIPT ⭐
+- BOOTSTRAP ⭐⭐⭐⭐
+- JAVASCRIPT ⭐⭐⭐⭐
+- DOM Document Object Model ⭐
+
 
 Software
 - Microsfot Suite ⭐⭐⭐⭐⭐
