@@ -12,8 +12,8 @@ Coding
 - CSS ⭐⭐⭐⭐
 - BOOTSTRAP ⭐⭐⭐⭐
 - JAVASCRIPT ⭐⭐⭐⭐
-- DOM Document Object Model ⭐
-- JQuery ⭐
+- DOM Document Object Model ⭐⭐⭐
+- JQuery ⭐⭐⭐
 - Node.js
 - 
 
